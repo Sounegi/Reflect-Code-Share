@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Play/Opening.unity
+    guid: 44eaf0fe0ae14404197643b593a5dc3a
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 0adecb067d21acd40beb65e76ba8b140
+  - enabled: 1
+    path: Assets/Scenes/Menu/OptionMenu.unity
+    guid: 654034961b67f8447a37a28e2571464b
+  - enabled: 1
+    path: Assets/Scenes/Menu/Controls.unity
+    guid: 8b6418b9e59e6aa4e99249852c87d3b9
+  - enabled: 1
+    path: Assets/Scenes/Menu/UpgradeMenu.unity
+    guid: d9be06d3a05e22c4e9fb9e30bcd2d866
+  - enabled: 1
+    path: Assets/Scenes/Menu/PausedMenu.unity
+    guid: 1e0f5aabfae31b34eb1d84e866f7e482
+  - enabled: 1
+    path: Assets/Scenes/Menu/GameOver.unity
+    guid: a59b736db3b4f0a49a02af5dce62a7e6
+  - enabled: 1
+    path: Assets/Scenes/Play/Map1.unity
+    guid: 1649814fea1f6da4cbe7f48c60ab0ec6
+  - enabled: 1
+    path: Assets/Scenes/Play/Map2.unity
+    guid: 9ce33da7190139b499b7dc247f41d892
+  - enabled: 1
+    path: Assets/Scenes/Play/Map3.unity
+    guid: 3ea4810ffb3180044bf0c85bd9b11f15
+  - enabled: 1
+    path: Assets/Scenes/Play/Map4.unity
+    guid: 88ce178985071ad49949aeacb0274ed6
+  - enabled: 1
+    path: Assets/Scenes/Play/Map5.unity
+    guid: e16b490357a2da74aa1aa041cc5d4009
+  - enabled: 1
+    path: Assets/Scenes/Play/Map6.unity
+    guid: bb62497366e38e242868ad1455e06ff8
+  - enabled: 1
+    path: Assets/Scenes/Play/Map7.unity
+    guid: 61704e310526d5e4093e32a2702e7377
+  - enabled: 1
+    path: Assets/Scenes/Play/Map8.unity
+    guid: 80464282492595c44b6154d7a4853dce
+  - enabled: 1
+    path: Assets/Scenes/Play/Final.unity
+    guid: 87ddcf586025970418051aaa18dfa0ad
+  - enabled: 1
+    path: Assets/Scenes/Play/Ending.unity
+    guid: c4fbdda9119825445a9c4239942cd637
+  m_configObjects: {}

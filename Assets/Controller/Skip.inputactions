@@ -1,0 +1,34 @@
+{
+    "name": "Skip",
+    "maps": [
+        {
+            "name": "Skip",
+            "id": "eb1a3df2-f517-4628-9f41-a4816f011c08",
+            "actions": [
+                {
+                    "name": "Skip",
+                    "type": "Button",
+                    "id": "983f4c4e-af6f-4114-9fc5-8e56b769f85b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2b9ffc70-d0fa-437c-9221-8ff3538adc23",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

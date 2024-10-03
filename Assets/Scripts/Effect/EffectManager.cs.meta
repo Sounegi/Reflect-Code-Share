@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e81cf5918324d034f9092f0ba3b6162d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effectSettings: {fileID: 11400000, guid: 2885d614f05fb454db244933453374fa, type: 2}
+  - healVFX: {fileID: 5928383561694542103, guid: d250a883993ec544486b744c19e38d19, type: 3}
+  - bulletBounceSFX: {instanceID: 0}
+  - playerWalkSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
